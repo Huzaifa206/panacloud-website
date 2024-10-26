@@ -36,7 +36,7 @@ ul {
     list-style: none;
     display: flex;
     justify-content: space-around;
-    margin-left: 450px;
+    margin-left: 25%;
 
 }
 
@@ -116,7 +116,7 @@ ul li a {
     color: white;
     opacity: 0.25;
     height: 55px;
-    width: 375px;
+    width: 345px;
 }
 .main .designbox2{
     position: absolute;
@@ -126,7 +126,7 @@ ul li a {
     color: white;
     opacity: 0.25;
     height: 55px;
-    width: 375px;
+    width: 345px;
 }
 
 
@@ -170,7 +170,6 @@ ul li a {
     text-transform: uppercase;
 }
 
-/* About Us Section */
 .about-us {
     padding: 40px 0;
     background-color: #F2F2F2;
@@ -247,10 +246,10 @@ ul li a {
     height: auto;
 }
 
-
 footer {
     background-color: #333;
     color: #fff;
     text-align: center;
     padding: 20px 0;
 }
+
